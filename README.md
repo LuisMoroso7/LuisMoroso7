@@ -3,9 +3,9 @@
 </p>
 # Hi there 👋 I'm Luis Eduardo Moroso
 
-🎓 Computer Science student focused on Software Engineering and system improvement.  
-🔎 Interested in software quality, development and data organization.  
-🚀 Building practical projects to strengthen technical and analytical skills.
+🎓 Computer Science Student  
+🔎 Focused on Software Engineering & System Design    
+🚀 Building practical and structured solutions
 ---
 
 ## 🛠 Skills & Tools
