@@ -3,10 +3,9 @@
 </p>
 # Hi there 👋 I'm Luis Eduardo Moroso
 
-🎓 Computer Science Student  
-💻 Passionate about Software Development and QA  
-🚀 Focused on building practical and clean solutions  
-
+🎓 Computer Science student focused on Software Engineering and system improvement.  
+🔎 Interested in software quality, development and data organization.  
+🚀 Building practical projects to strengthen technical and analytical skills.
 ---
 
 ## 🛠 Skills & Tools
@@ -21,11 +20,16 @@
 
 ## 📚 Currently Learning
 
-- Automated Testing (Selenium / Playwright)
-- Clean Code
-- Backend Development
-
+- Software Engineering principles  
+- Database Optimization  
+- Programming Language Paradigms  
+- Software Quality and Testing fundamentals  
 ---
+
+## 🧩 Background
+
+- UX & Front-End Nanodegree  
+- Programming Organization & Abstraction  
 
 ## 📫 Connect with Me
 
